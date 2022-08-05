@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 import json
 from math import radians, cos, sin, asin, sqrt
-import urllib2
+import urllib.request as urllib2
 import numpy as np
 
 

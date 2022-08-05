@@ -2,7 +2,7 @@ import base64
 import traceback
 import pyglet
 from geoplotlib.core import GeoplotlibApp
-from core import FONT_NAME
+from geoplotlib.core import FONT_NAME
 
 
 class AppConfig:

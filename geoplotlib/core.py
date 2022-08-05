@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from Queue import Queue
+from queue import Queue
 from threading import Thread
 from pyglet.window import mouse
 import time
@@ -10,7 +10,7 @@ import math
 import numpy as np
 import os
 import random
-import urllib2
+import urllib.request as urllib2
 import pyglet
 from os.path import expanduser
 from geoplotlib import utils

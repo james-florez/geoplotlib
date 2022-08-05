@@ -8,7 +8,7 @@ import numpy as np
 import geoplotlib.colors as colors
 from geoplotlib.core import BatchPainter,FONT_NAME
 from geoplotlib.utils import BoundingBox
-import Queue
+import queue
 from inspect import isfunction
 import json
 
